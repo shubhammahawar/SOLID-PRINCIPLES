@@ -29,3 +29,17 @@ public class BookPrinter{
 void printTextToConsole(String text){
 }
 }
+
+
+
+Real-life use cases of Single Responsibility Principle
+
+
+1. Web development: We can have separate classes (with their own single responsibility) for handling user authentication, database access, view rendering, etc.
+2. Mobile app development: We can design separate classes with single responsibility for handling user input, displaying data, managing network requests, elc.
+3. Game development: We can have separate classes for handling player movement, enemy movement, sound effects, etc.
+4. Financial software: We can have separate classes for handling transactions, generating reports, calculating
+   taxes, etc.
+5. E-commerce websites: We can design separate classes for handling customer orders, product catalog management, payment processing, etc.
+
+
